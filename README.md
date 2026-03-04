@@ -9,3 +9,12 @@ Este proyecto aplica un ciclo completo de análisis de datos sobre el ranking ac
 
 ## 2. Recopilación de Datos
 Los datos fueron extraídos de fuentes periodísticas especializadas y estructurados en formato CSV para su procesamiento en Python (Google Colab).
+
+## 3. Procesamiento y Limpieza
+- Se verificó la integridad de los datos (0 nulos, 0 duplicados).
+- Se creó una nueva segmentación de mercado: **"Leyenda"** (>100M ventas) y **"Éxito"**.
+
+## 4. Hallazgos del Análisis (KPIs)
+- **Dominio de Mercado:** Nintendo lidera en volumen de modelos dentro del Top 10 (6 consolas).
+- **Ventas Acumuladas:** Sony mantiene una competencia cerrada en ventas totales por unidad.
+- **Tendencia 2026:** La Nintendo Switch 2 muestra un arranque sólido de 17.37M en su primer ciclo reportado.
