@@ -19,7 +19,7 @@ Los datos fueron extraídos de fuentes periodísticas especializadas y estructur
 - **Ventas Acumuladas:** Sony mantiene una competencia cerrada en ventas totales por unidad.
 - **Tendencia 2026:** La Nintendo Switch 2 muestra un arranque sólido de 17.37M en su primer ciclo reportado.
 
-- ## 5. Dashboard e Inteligencia de Negocio
+## 5. Dashboard e Inteligencia de Negocio
 Se ha desarrollado un dashboard que integra el estado actual del mercado y un modelo predictivo.
 
 ![Dashboard de Ventas 2026](dashboard_final_videojuegos_2026.png)
