@@ -26,3 +26,17 @@ Se ha desarrollado un dashboard que integra el estado actual del mercado y un mo
 
 ### Nota Técnica: Modelo de Regresión Cuadrática
 Para la **Nintendo Switch 2**, se aplicó un modelo cuadrático ($y = ax^2 + bx + c$) debido a la aceleración inicial de ventas observada. La proyección estima que la consola alcanzará un hito crítico de adopción para finales de 2026.
+
+---
+
+## 6. Conclusiones y Hallazgos de Gestión
+Tras el análisis de datos de febrero de 2026, se identifican tres puntos clave para la estrategia de mercado:
+
+* **Liderazgo Consolidado:** Nintendo mantiene la mayor cuota de modelos en el Top 10 (60%), lo que demuestra una estrategia de ciclo de vida de hardware superior a la competencia.
+  
+* **Aceleración de Próxima Generación:** El modelo de **regresión cuadrática** aplicado a la **Nintendo Switch 2** muestra una curva de adopción acelerada. Con **17.37M** en sus primeros meses, la proyección sugiere que la consola superará el hito de los 45M de unidades antes del mes 18, superando el ritmo de lanzamiento de su predecesora.
+  
+* **Estatus de "Leyenda":** Solo dos sistemas actuales (Switch y PS4) han superado la barrera de los 100M, estableciendo el estándar de éxito para la presente década.
+
+---
+*Este proyecto fue desarrollado como un flujo completo de Data Engineering y Análisis Predictivo.*
