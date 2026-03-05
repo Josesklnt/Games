@@ -18,3 +18,11 @@ Los datos fueron extraídos de fuentes periodísticas especializadas y estructur
 - **Dominio de Mercado:** Nintendo lidera en volumen de modelos dentro del Top 10 (6 consolas).
 - **Ventas Acumuladas:** Sony mantiene una competencia cerrada en ventas totales por unidad.
 - **Tendencia 2026:** La Nintendo Switch 2 muestra un arranque sólido de 17.37M en su primer ciclo reportado.
+
+- ## 5. Dashboard e Inteligencia de Negocio
+Se ha desarrollado un dashboard que integra el estado actual del mercado y un modelo predictivo.
+
+![Dashboard de Ventas 2026](dashboard_final_videojuegos_2026.png)
+
+### Nota Técnica: Modelo de Regresión Cuadrática
+Para la **Nintendo Switch 2**, se aplicó un modelo cuadrático ($y = ax^2 + bx + c$) debido a la aceleración inicial de ventas observada. La proyección estima que la consola alcanzará un hito crítico de adopción para finales de 2026.
